@@ -18,13 +18,18 @@
 ## 👩‍💻 About Me
 
 <p>
-🔭 <b>Currently working on</b> — Secure Password Manager<br/><br/>
 
-🤝 <b>Looking to collaborate on</b> — Python, DSA, Cloud & DevOps projects<br/><br/>
+🔭 <b>Currently working on</b> — Secure Password Manager
+<br/><br/>
 
-📚 <b>Currently learning</b> — DSA & Python<br/><br/>
+🤝 <b>Looking to collaborate on</b> — Python, DSA, Cloud & DevOps projects
+<br/><br/>
 
-💡 <b>Interested in</b> — Python, Cloud, DevOps & Problem Solving<br/><br/>
+📚 <b>Currently learning</b> — DSA & Python
+<br/><br/>
+
+💡 <b>Interested in</b> — Python, Cloud, DevOps & Problem Solving
+<br/><br/>
 
 🎯 <b>Goal</b> — Continuously improve my technical and problem-solving skills
 
@@ -36,24 +41,26 @@
 
 <table width="100%">
   <tr>
+
     <td width="100%" valign="top">
 
-```
-  <h3>🔐 Secure Password Manager</h3>
+      <h3>
+        🔐 Secure Password Manager
+      </h3>
 
-  <p>
-    A secure password management project focused on protecting and managing
-    passwords while exploring practical concepts related to security and application development.
-  </p>
+      <p>
+        A secure password management project focused on protecting and
+        managing passwords while exploring practical concepts related to
+        security and application development.
+      </p>
 
-  <p>
-    <code>Python</code>
-    <code>Security</code>
-    <code>Docker</code>
-  </p>
+      <p>
+        <code>Python</code>
+        <code>Security</code>
+        <code>Docker</code>
+      </p>
 
-</td>
-```
+    </td>
 
   </tr>
 </table>
@@ -62,9 +69,9 @@
 
 ## 🏆 Achievements
 
-* 🥇 Participated in the **Naan Mudhalvan Hackathon**
-* 💡 Participated in **Smart India Hackathon (SIH)**
-* 🎤 Participated in **Inter-college Technical Events**
+- 🥇 Naan Mudhalvan Hackathon
+- 💡 Smart India Hackathon (SIH)
+- 🎤 Inter-college Technical Events
 
 <br/>
 
@@ -90,27 +97,38 @@
 
 ## 💻 Tech Stack
 
-<p><b>Programming & Problem Solving</b></p>
+### 🐍 Programming & Problem Solving
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/DSA-0EA5E9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+  <img src="https://img.shields.io/badge/DSA-0EA5E9?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
 </p>
 
-<p><b>Operating System</b></p>
+### 🐧 Operating System
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
 </p>
 
-<p><b>DevOps & Cloud</b></p>
+### ☁️ Cloud & DevOps
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
 </p>
 
 <br/>
@@ -137,12 +155,14 @@
 
 <br/>
 
+## 🔥 GitHub Streak
+
 <div align="center">
 
-<img
- src="https://github-readme-streak-stats.herokuapp.com/?user=dasarishylaja&hide_border=true&background=0D1117&border=0EA5E9&ring=0EA5E9&fire=38BDF8&currStreakNum=ffffff&sideNums=C9D1D9&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=8b949e&v=2"
- alt="GitHub Streak Stats"
-/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dasarishylaja&hide_border=true&background=0D1117&border=0EA5E9&ring=0EA5E9&fire=38BDF8&currStreakNum=ffffff&sideNums=C9D1D9&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=8b949e&v=2"
+    alt="GitHub Streak Stats"
+  />
 
 </div>
 
@@ -152,10 +172,10 @@
 
 <div align="center">
 
-<img
- src="https://github-readme-activity-graph.vercel.app/graph/?username=dasarishylaja&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution+Activity"
- alt="GitHub Activity Graph"
-/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph/?username=dasarishylaja&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution+Activity"
+    alt="GitHub Activity Graph"
+  />
 
 </div>
 
