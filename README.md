@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hi, I'm Dasari Shylaja</h1>
+<h1> Dasari Shylaja</h1>
 
 <h3>🎓 Student | 🐍 Python & DSA Enthusiast</h3>
 
